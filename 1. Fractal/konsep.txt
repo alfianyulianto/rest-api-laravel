@@ -1,0 +1,3 @@
+- Fractal : menyediakan lapisan presentasi dan transformasi untuk keluaran data yang kompleks, seperti yang ditemukan di RESTful API, dan bekerja sangat baik dengan JSON.
+- Saat membangun API, biasanya orang hanya mengambil barang dari database dan meneruskannya ke json_encode().
+- Ini mungkin lumayan untuk API "sepele" tetapi jika digunakan oleh publik, atau digunakan oleh aplikasi seluler maka ini akan dengan cepat menghasilkan keluaran yang tidak konsisten.
